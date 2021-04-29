@@ -6,4 +6,5 @@ myvenv
 db.sqlite3
 /static
 .DS_Store
-settings.py
+local_settings.py
+get_random_secret_key.py
